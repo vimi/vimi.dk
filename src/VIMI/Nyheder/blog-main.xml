@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Nyheder</title>
+    <link>http://www.vimi.dk/VIMI/Nyheder</link>
+    <description>Her samles nyheder fra foreningen.</description>
+    <item>
+      <title>S&#xE5; er vi i gang igen</title>
+      <link>http://www.vimi.dk/VIMI/Nyheder/Optegnelser/2010/9/22_Sa_er_vi_i_gang_igen.html</link>
+      <guid isPermaLink="false">9ae3967d-40b1-4ea8-84f3-2b4b9eeadf68</guid>
+      <pubDate>Wed, 22 Sep 2010 10:40:35 +0200</pubDate>
+      <description>S&#xE5; er idr&#xE6;tss&#xE6;sonen startet igen i VIMI. Vi er startet op med Sportsl&#xF8;rdag for de mindste, og de store er startet op med idr&#xE6;t om mandagen. &lt;br/&gt;&lt;br/&gt;L&#xF8;rdag er det for b&#xF8;rnene som er 0-5 &#xE5;r. Om mandagen dyrker vi idr&#xE6;t for dem der er voksne, og gerne vil spille noget forskelligt. I mandags spillede vi floorball, og n&#xE6;ste mandag st&#xE5;r den p&#xE5; Ultimate (Et spil med en freesbee).&lt;br/&gt;&lt;br/&gt;Kom og v&#xE6;r med til at dyrke idr&#xE6;t hvor gl&#xE6;den ved sporten er i centrum.</description>
+      <iweb:image href="Media/object002.png"></iweb:image>
+      <iweb:comment link="http://www.vimi.dk/VIMI/Nyheder/Optegnelser/2010/9/22_Sa_er_vi_i_gang_igen.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Generalforsamling</title>
+      <link>http://www.vimi.dk/VIMI/Nyheder/Optegnelser/2010/2/15_Generalforsamling.html</link>
+      <guid isPermaLink="false">139afaca-54f7-4ba4-b4e3-7b4b30dc0c0b</guid>
+      <pubDate>Mon, 15 Feb 2010 13:26:03 +0100</pubDate>
+      <description>&lt;br/&gt;Generalforsamling den 15. marts kl. 20.00 i spisesalen p&#xE5; idr&#xE6;tsh&#xF8;jskolen, &#xD8;rnebjergvej&lt;br/&gt;&lt;br/&gt;Dagsorden&lt;br/&gt;&lt;br/&gt;   1. Valg af dirigent og referent&lt;br/&gt;   2. Bestyrelsens beretning for det forl&#xF8;bne &#xE5;r&lt;br/&gt;   3. Forel&#xE6;ggelse af &#xE5;rsrapport (inkl. revideret regnskab) for det forl&#xF8;bne &#xE5;r til godkendelse&lt;br/&gt;   4. Forel&#xE6;ggelse af bestyrelsens budgetforslag for det kommende &#xE5;r til godkendelse&lt;br/&gt;   5. Fasts&#xE6;ttelse af kontingent&lt;br/&gt;   6. Behandling af indkomne forslag&lt;br/&gt;   7. Valg af formand (i lige &#xE5;r) - Lars Olesen genopstiller   &lt;br/&gt;   8. Valg af &#xF8;vrige bestyrelsesmedlemmer - Poul J&#xF8;rgensen &amp;amp; Peter Sebastian er p&#xE5; valg.&lt;br/&gt;   9. Valg af to suppleanter til bestyrelsen&lt;br/&gt;  10. Valg af revisor og revisorsuppleant&lt;br/&gt;  11. Eventuelt</description>
+      <iweb:image href="Media/object000.png"></iweb:image>
+      <iweb:comment link="http://www.vimi.dk/VIMI/Nyheder/Optegnelser/2010/2/15_Generalforsamling.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE 'den' d. MMMM yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.vimi.dk/VIMI/Nyheder</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

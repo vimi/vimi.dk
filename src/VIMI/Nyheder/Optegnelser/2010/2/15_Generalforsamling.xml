@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="2149D072-85FD-4182-A78F-ECF90D14C302">
+  <lastEdited clientType="local-build-20100222" date="2010-02-22 13:49:51 +0100"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Freestyle</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xD;Generalforsamling den 15. marts kl. 20.00 i spisesalen p&#xE5; idr&#xE6;tsh&#xF8;jskolen, &#xD8;rnebjergvej&#xD;&#xD;Dagsorden&#xD;&#xD;   1. Valg af dirigent og referent&#xD;   2. Bestyrelsens beretning for det forl&#xF8;bne &#xE5;r&#xD;   3. Forel&#xE6;ggelse af &#xE5;rsrapport (inkl. revideret regnskab) for det forl&#xF8;bne &#xE5;r til godkendelse&#xD;   4. Forel&#xE6;ggelse af bestyrelsens budgetforslag for det kommende &#xE5;r til godkendelse&#xD;   5. Fasts&#xE6;ttelse af kontingent&#xD;   6. Behandling af indkomne forslag&#xD;   7. Valg af formand (i lige &#xE5;r) - Lars Olesen genopstiller   &#xD;   8. Valg af &#xF8;vrige bestyrelsesmedlemmer - Poul J&#xF8;rgensen &amp; Peter Sebastian er p&#xE5; valg.&#xD;   9. Valg af to suppleanter til bestyrelsen&#xD;  10. Valg af revisor og revisorsuppleant&#xD;  11. Eventuelt</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Generalforsamling_files/shapeimage_2.png" left="0px" top="0px" width="403px" height="304px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mandag den 15. februar 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Generalforsamling</richText>
+  </textBox>
+</content>

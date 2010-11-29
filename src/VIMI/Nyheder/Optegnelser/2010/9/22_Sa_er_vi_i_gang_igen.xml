@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="2149D072-85FD-4182-A78F-ECF90D14C302">
+  <lastEdited clientType="local-build-20100922" date="2010-09-22 11:07:37 +0200"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Nyheder</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>S&#xE5; er idr&#xE6;tss&#xE6;sonen startet igen i VIMI. Vi er startet op med Sportsl&#xF8;rdag for de mindste, og de store er startet op med idr&#xE6;t om mandagen. &#xD;&#xD;L&#xF8;rdag er det for b&#xF8;rnene som er 0-5 &#xE5;r. Om mandagen dyrker vi idr&#xE6;t for dem der er voksne, og gerne vil spille noget forskelligt. I mandags spillede vi floorball, og n&#xE6;ste mandag st&#xE5;r den p&#xE5; Ultimate (Et spil med en freesbee).&#xD;&#xD;Kom og v&#xE6;r med til at dyrke idr&#xE6;t hvor gl&#xE6;den ved sporten er i centrum.</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_Sa_er_vi_i_gang_igen_files/shapeimage_2.png" left="0px" top="0px" width="364px" height="304px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;onsdag den 22. september 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>S&#xE5; er vi i gang igen</richText>
+  </textBox>
+</content>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Nyheder</title>
+    <link>http://www.vimi.dk/VIMI/Nyheder</link>
+    <description>Her samles nyheder fra foreningen.</description>
+    <item>
+      <title>S&#xE5; er vi i gang igen</title>
+      <link>http://www.vimi.dk/VIMI/Nyheder/Optegnelser/2010/9/22_Sa_er_vi_i_gang_igen.html</link>
+      <guid isPermaLink="false">9ae3967d-40b1-4ea8-84f3-2b4b9eeadf68</guid>
+      <pubDate>Wed, 22 Sep 2010 10:40:35 +0200</pubDate>
+      <iweb:comment link="http://www.vimi.dk/VIMI/Nyheder/Optegnelser/2010/9/22_Sa_er_vi_i_gang_igen.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Generalforsamling</title>
+      <link>http://www.vimi.dk/VIMI/Nyheder/Optegnelser/2010/2/15_Generalforsamling.html</link>
+      <guid isPermaLink="false">139afaca-54f7-4ba4-b4e3-7b4b30dc0c0b</guid>
+      <pubDate>Mon, 15 Feb 2010 13:26:03 +0100</pubDate>
+      <iweb:comment link="http://www.vimi.dk/VIMI/Nyheder/Optegnelser/2010/2/15_Generalforsamling.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE 'den' d. MMMM yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.vimi.dk/VIMI/Nyheder</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
